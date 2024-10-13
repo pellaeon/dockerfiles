@@ -1,0 +1,3 @@
+Dockerfile made for squid-openssl to enable ssl_bump. Mostly follows [this article](https://rasika90.medium.com/how-i-saved-tons-of-gbs-with-https-caching-41550b4ada8a).
+
+* You need to generate your own CA and place it in `squid/ssl`
